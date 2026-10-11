@@ -1,0 +1,4 @@
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btnangcao\obj\Debug\net10.0\BTNangCao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btnangcao\obj\Debug\net10.0\BTNangCao.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btnangcao\obj\Debug\net10.0\BTNangCao.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btnangcao\obj\Debug\net10.0\BTNangCao.csproj.CoreCompileInputs.cache

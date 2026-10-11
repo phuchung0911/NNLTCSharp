@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\bin\Debug\net8.0-windows\BTVeNha.exe
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\bin\Debug\net8.0-windows\BTVeNha.deps.json
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\bin\Debug\net8.0-windows\BTVeNha.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\bin\Debug\net8.0-windows\BTVeNha.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\bin\Debug\net8.0-windows\BTVeNha.pdb
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\refint\BTVeNha.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.pdb
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\BTVeNha.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4d\btvenha\obj\Debug\net8.0-windows\ref\BTVeNha.dll

@@ -1,0 +1,14 @@
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\bin\Debug\net8.0-windows\Bai3.exe
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\bin\Debug\net8.0-windows\Bai3.deps.json
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\bin\Debug\net8.0-windows\Bai3.runtimeconfig.json
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\bin\Debug\net8.0-windows\Bai3.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\bin\Debug\net8.0-windows\Bai3.pdb
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfoInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.AssemblyInfo.cs
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.csproj.CoreCompileInputs.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\refint\Bai3.dll
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.pdb
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\Bai3.genruntimeconfig.cache
+C:\Users\ACER\OneDrive\Desktop\Lab04_WinFormBasic_Bùi Phúc Hưng_3124411115\thuchanh4c\bai3\obj\Debug\net8.0-windows\ref\Bai3.dll
